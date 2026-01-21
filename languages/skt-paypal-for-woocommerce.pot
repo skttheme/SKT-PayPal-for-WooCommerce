@@ -1,0 +1,183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT PayPal for WooCommerce\n"
+"POT-Creation-Date: 2022-02-14 16:08+0530\n"
+"PO-Revision-Date: 2022-02-11 18:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: skt-paypal-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: backend/paypal-checkout.php:15
+msgid "SKT PayPal For Woocommerce"
+msgstr ""
+
+#: backend/paypal-checkout.php:16
+msgid "Allow payment through PayPal."
+msgstr ""
+
+#: backend/paypal-checkout.php:45
+msgid "Enable/Disable"
+msgstr ""
+
+#: backend/paypal-checkout.php:46
+msgid "Enable PayPal"
+msgstr ""
+
+#: backend/paypal-checkout.php:52
+msgid "Title"
+msgstr ""
+
+#: backend/paypal-checkout.php:54
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: backend/paypal-checkout.php:55
+msgid "PayPal"
+msgstr ""
+
+#: backend/paypal-checkout.php:59
+msgid "Description"
+msgstr ""
+
+#: backend/paypal-checkout.php:61
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: backend/paypal-checkout.php:62
+msgid "Pay with your credit card via PayPal."
+msgstr ""
+
+#: backend/paypal-checkout.php:65
+msgid "Sandbox Mode"
+msgstr ""
+
+#: backend/paypal-checkout.php:66
+msgid "Enable Sandbox Mode"
+msgstr ""
+
+#: backend/paypal-checkout.php:68
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr ""
+
+#: backend/paypal-checkout.php:73
+msgid "Sandbox API(Client Id)"
+msgstr ""
+
+#: backend/paypal-checkout.php:77
+msgid "Sandbox Secret Key"
+msgstr ""
+
+#: backend/paypal-checkout.php:81
+msgid "Sandbox PayPal Business Email"
+msgstr ""
+
+#: backend/paypal-checkout.php:85
+msgid "Live API (Client Id)"
+msgstr ""
+
+#: backend/paypal-checkout.php:89
+msgid "Live Secret Key"
+msgstr ""
+
+#: backend/paypal-checkout.php:93
+msgid "Live PayPal Business Email"
+msgstr ""
+
+#: backend/paypal-checkout.php:97
+msgid "Button Color"
+msgstr ""
+
+#: backend/paypal-checkout.php:98
+msgid ""
+"Controls the background color of the primary button. Use 'Gold' to leverage "
+"PayPal's recognition and preference, or change it to match your site design "
+"or aesthetic."
+msgstr ""
+
+#: backend/paypal-checkout.php:109
+msgid "Button Shape"
+msgstr ""
+
+#: backend/paypal-checkout.php:110
+msgid ""
+"The pill-shaped button's unique and powerful shape signifies PayPal in "
+"people's minds. Use the rectangular button as an alternative when pill-"
+"shaped buttons might pose design challenges."
+msgstr ""
+
+#: backend/paypal-checkout.php:119
+msgid "Button Label"
+msgstr ""
+
+#: backend/paypal-checkout.php:121
+msgid ""
+"PayPal offers different labels on the 'PayPal Checkout' buttons, allowing "
+"you to select a suitable label."
+msgstr ""
+
+#: backend/paypal-checkout.php:131
+msgid "Button Layout"
+msgstr ""
+
+#: backend/paypal-checkout.php:132
+msgid ""
+"If additional funding sources are available to the buyer through PayPal, "
+"such as Card, then multiple buttons are displayed in the space provided. "
+"Choose 'vertical' for a dynamic list of alternative and local payment "
+"options, or 'horizontal' when space is limited."
+msgstr ""
+
+#: backend/paypal-checkout.php:141
+msgid "Button Height"
+msgstr ""
+
+#: backend/paypal-checkout.php:142
+msgid "Control the height of button to match your site design or aesthetic."
+msgstr ""
+
+#: backend/paypal-checkout.php:186
+msgid "SANDBOX MODE IS ENABLED"
+msgstr ""
+
+#: skt-paypal-for-woocommerce.php:44
+msgid ""
+"SKT Paypal for WooCommerce plugin requires WooCommerce plugin installed & "
+"activated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SKT PayPal for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/woocommerce-paypal-checkout-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT PayPal brings you the express checkout payment processing solution. "
+"Accept PayPal and credit/debit cards. Enable global coverage by tweaking "
+"your PayPal settings for currency acceptance and country coverage."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org/"
+msgstr ""
